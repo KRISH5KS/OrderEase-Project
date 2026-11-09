@@ -1,0 +1,6 @@
+{
+  "name":"orderease-api","version":"1.0.0","type":"module",
+  "scripts":{"dev":"node --watch src/index.js","start":"node src/index.js","test":"node --test"},
+  "dependencies":{"cors":"^2.8.5","dotenv":"^16.4.7","express":"^4.21.2","jsonwebtoken":"^9.0.2","sql.js":"^1.13.0"},
+  "devDependencies":{}
+}
